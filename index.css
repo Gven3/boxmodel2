@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+div {
+    margin: 80px auto;
+    width: fit-content;
+}
+
+
+ul {
+    width: 300px;
+    height: 255px;
+    background-color: rgb(35, 203, 105);
+    padding: 0 auto;
+    margin: auto;
+    border: 2px rgb(103, 33, 253) solid;
+    border-radius: 8px;
+    list-style: none;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    border-bottom: 2px black solid;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    font-size: 22px;
+}
+
